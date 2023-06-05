@@ -25,15 +25,15 @@ Integrating these two files will allow us to automate the tasks associated with 
  which they’ll hire the worker. The application will calculate the amount that the
  worker will be paid in ether. Using a button, this that will send an Ethereum blockchain transaction that pays the hired candidate. 
 
-![Screen shot StreamLit Interface succesfully generating transaction hash](Images/StreamLit_UI_ScreenShot.png)
+![alt=""](Code/Images/StreamLit_UI_ScreenShot.png)
 
 
 # Ganache Transaction
 -----------
 
-![alt=""](Images/Ganache_address_balance.png)
-![alt=""](Images/to_address_Ganache.png)
-![alt=""](Images/transaction_details_ganache.png)
+![alt=""](Code/Images/Ganache_address_balance.png)
+![alt=""](Code/Images/to_address_Ganache.png)
+![alt=""](Code/Images/transaction_details_ganache.png)
 
 
 
@@ -43,7 +43,7 @@ Integrating these two files will allow us to automate the tasks associated with 
 Error: Transaction's maxFeePerGas (0) is less than the block's baseFeePerGas (527514873). 
 
 Error identified and corrected. However, transactions were still minted on the local block chain. They these blocks do not contain  transaction details. 
-![alt=""](Images/Block_scrrenshots_error.png)
+![alt=""](Code/Images/Block_scrrenshots_error.png)
 
 Error identified and corrected.
-![alt=""](Images/Screenshot_Error_get_balance.png)
+![alt=""](Code/Images/Screenshot_Error_get_balance.png)
