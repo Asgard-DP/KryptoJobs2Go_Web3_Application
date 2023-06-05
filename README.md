@@ -31,9 +31,9 @@ Integrating these two files will allow us to automate the tasks associated with 
 # Ganache Transaction
 -----------
 
-![Ganache address demonstrating new balance](Images/Ganache_address_balance.png)
-![Ganache to address details](Images/to_address_Ganache.png)
-![Ganache transaction details](Images/transaction_details_ganache.png)
+![alt=""](Images/Ganache_address_balance.png)
+![alt=""](Images/to_address_Ganache.png)
+![alt=""](Images/transaction_details_ganache.png)
 
 
 
@@ -43,7 +43,7 @@ Integrating these two files will allow us to automate the tasks associated with 
 Error: Transaction's maxFeePerGas (0) is less than the block's baseFeePerGas (527514873). 
 
 Error identified and corrected. However, transactions were still minted on the local block chain. They these blocks do not contain  transaction details. 
-![ 0-5 0 gased used transactions due to 'gasPrice' being less that 'gas'](Images/Block_scrrenshots_error.png)
+![alt=""](Images/Block_scrrenshots_error.png)
 
 Error identified and corrected.
-![Screen shot of error when calling get_balance function ](Images/Screenshot_Error_get_balance.png)
+![alt=""](Images/Screenshot_Error_get_balance.png)
